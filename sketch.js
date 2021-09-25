@@ -310,7 +310,7 @@ for (var a=0; a<sharkGroup.length;a++){
         text("Creatures Collected: "+ score, 550,150);
         text("Lives: "+ lives, 600,200);
 
-        if(score>=30){
+        if(score>=25){
           background(treasureImg)
           //treasure.visible=true
           sharkGroup.destroyEach();
