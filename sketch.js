@@ -35,13 +35,13 @@ function preload(){
    // infoButton=loadImage("InfoButton.jpg");
     levelimg=loadImage("level1.gif");
 
-    rightsharkImg=loadImage("Animals/rightshark.gif");
-    leftsharkImg=loadImage("Animals/leftshark.gif");
-    crabImg=loadImage("Animals/crab.gif");
-    fish1Img=loadImage("Animals/fish1.gif");
-    fish2Img=loadImage("Animals/fish2.gif");
+    rightsharkImg=loadImage("rightshark.gif");
+    leftsharkImg=loadImage("leftshark.gif");
+    crabImg=loadImage("crab.gif");
+    fish1Img=loadImage("fish1.gif");
+    fish2Img=loadImage("fish2.gif");
     //bombImg=loadImage("Animals/Bomb.png");
-    scubadiverImg=loadImage("Animals/scubadiver.gif");
+    scubadiverImg=loadImage("scubadiver.gif");
     treasureImg=loadImage("treasure.jpg")
 
     bgsetting=loadImage("bgsetting.gif")
